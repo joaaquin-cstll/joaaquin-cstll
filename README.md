@@ -27,9 +27,9 @@ Me interesa todo lo relacionado con **programación, diseño y nuevas tecnologí
 ---
 ## 📊 Mis estadísticas en GitHub
 
-![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaaquin-cstll&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub de Joaquín](https://github-readme-stats.vercel.app/api?username=joaaquin-cstll&show_icons=true&theme=tokyonight&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaaquin-cstll&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=joaaquin-cstll&layout=compact&theme=tokyonight&locale=es)
 
 
 
