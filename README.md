@@ -25,5 +25,12 @@ Me interesa todo lo relacionado con **programación, diseño y nuevas tecnologí
 - ✉️ joaaquin.cstllo@gmail.com  
 
 ---
+## 📊 Mis estadísticas en GitHub
+
+![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
+
+
 
 ⭐️ *Siempre abierto a aprender, compartir y colaborar en nuevos proyectos.*
